@@ -4,7 +4,7 @@ Let's admit it, regex expressions could be a bit complicated to understand and e
 
 This repository aims to create a collection of the most used regex expressions ordered by different criteria.
 
-Regex are all categorized by operation (find, get...) and format (plain text, HTML).
+Regex are all categorized by operation (find, get...) and format (plain text, HTML, JSON...).
 
 ## Table of Contents
 
