@@ -15,6 +15,8 @@ Regex are all categorized by operation (find, get...) and format (plain text, HT
 * Get
     * HTML
         * [Get text inside HTML tags](/src/get/html/GetTextInsideTagsInHtml.md)
+    * JSON
+        * [Get values by JSON key](/src/get/json/GetValuesByJsonKey.md)
 
 ## Author
 
